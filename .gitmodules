@@ -7,3 +7,8 @@
 	path = ITBS-Argentina/odoo-argentina-ee
 	url = git@github.com:ITBS-Argentina/odoo-argentina-ee.git
 	branch = 16.0
+
+[submodule "ITBS-Argentina/account-payment"]
+	path = ITBS-Argentina/account-payment
+	url = git@github.com:ITBS-Argentina/account-payment.git
+	branch = 16.0
