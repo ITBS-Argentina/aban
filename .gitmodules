@@ -1,0 +1,4 @@
+[submodule "ITBS-Argentina/odoo-argentina"]
+	path = ITBS-Argentina/odoo-argentina
+	url = git@github.com:ITBS-Argentina/odoo-argentina.git
+	branch = 16.0
