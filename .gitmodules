@@ -12,3 +12,8 @@
 	path = ITBS-Argentina/account-payment
 	url = git@github.com:ITBS-Argentina/account-payment.git
 	branch = 16.0
+
+[submodule "ITBS-Argentina/account-financial-tools"]
+	path = ITBS-Argentina/account-financial-tools
+	url = git@github.com:ITBS-Argentina/account-financial-tools.git
+	branch = 16.0
