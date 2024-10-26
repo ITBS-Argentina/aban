@@ -14,7 +14,7 @@
     },
     "depends": [
         "account_payment_pro",
-        "l10n_latam_invoice_document",
+        #"l10n_latam_invoice_document",
     ],
     "data": [
         'security/ir.model.access.csv',
@@ -26,7 +26,7 @@
     'installable': True,
     'auto_install': False,
     'application': False,
-    #'post_init_hook': '_generate_receiptbooks',
+    'post_init_hook': '_generate_receiptbooks',
     "demo": [
     ],
 }
