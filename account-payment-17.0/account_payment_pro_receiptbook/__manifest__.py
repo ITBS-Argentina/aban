@@ -26,7 +26,7 @@
     'installable': True,
     'auto_install': False,
     'application': False,
-    'post_init_hook': '_generate_receiptbooks',
+    #'post_init_hook': '_generate_receiptbooks',
     "demo": [
     ],
 }
